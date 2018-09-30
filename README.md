@@ -1,1 +1,1 @@
-Respositório de exercícios de Python, reformulado.
+#Respositório de exercícios de Python, reformulado.
