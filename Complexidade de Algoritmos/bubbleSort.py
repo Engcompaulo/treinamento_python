@@ -13,7 +13,7 @@ def bubbleSort(vetor, n):
 
 print("Método de ordenação. Método da bolha.");
 vetor = [7, 5, 8, 4, 3, 6, 1, 9, 10, 2];
-print(vetor);
+print("Vetor:     ",vetor);
 
 n = len(vetor)-1;
-print(bubbleSort(vetor, n));
+print("Ordenação: ",bubbleSort(vetor, n));

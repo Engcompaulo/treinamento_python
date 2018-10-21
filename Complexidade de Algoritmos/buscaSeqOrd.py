@@ -9,7 +9,7 @@ def buscaSeqOrd(vetor, n, chave):
 
 print("Busca em vetor ordenado. Exemplo, buscar o número 8.");
 vetor = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
-print(vetor);
+print("Vetor: ",vetor);
 
 n = len(vetor);
 print("Posição: ", buscaSeqOrd(vetor, n, 8) + 1);
