@@ -19,8 +19,10 @@
 <li><a href="https://github.com/Engcompaulo/treinamento_python/blob/master/Pequenos%20programas/senCosTang.py">senCosTang.py</a></li>
 <li><a href="https://github.com/Engcompaulo/treinamento_python/blob/master/Pequenos%20programas/somaDoisNumerosInput.py">somaDoisNumerosInput.py</a></li>
 <li><a href="https://github.com/Engcompaulo/treinamento_python/blob/master/Pequenos%20programas/sorteioDentroLista.py">sorteioDentroLista.py</a></li>
+</ul>
 <h3><a id="Pequenos_programas_2"></a>Complexidade de Algoritmos</h3>
 <h4><a id="Pequenos_programas_2"></a>Aplicação dos algoritmos</h4>
+<ul>
 <li><a href="https://github.com/Engcompaulo/treinamento_python/blob/master/Complexidade%de%Algoritmos/bubbleSort.py">bubbleSort.py</a></li>
 <li><a href="https://github.com/Engcompaulo/treinamento_python/blob/master/Complexidade%de%Algoritmos/buscaBin.py">buscaBin.py</a></li>
 <li><a href="https://github.com/Engcompaulo/treinamento_python/blob/master/Complexidade%de%Algoritmos/buscaSeqNaoOrd.py">buscaSeqNaoOrd.py</a></li>
