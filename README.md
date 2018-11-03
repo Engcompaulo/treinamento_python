@@ -1,7 +1,7 @@
 <h1><a id="Respositrio_de_exerccios_de_Python_reformulado_0"></a>Respositório de exercícios de Python, reformulado.</h1>
 <h3><a id="Pequenos_programas_2"></a>Pequenos programas</h3>
 <ul>
-<li><a href="http://areaQudrilatero.py">areaQudrilatero.py</a></li>
+<li><a href="https://github.com/Engcompaulo/treinamento_python/blob/master/areaQudrilatero.py">areaQudrilatero.py</a></li>
 <li><a href="http://aumentoSalario.py">aumentoSalario.py</a></li>
 <li><a href="http://aumentoSalarioAlterado.py">aumentoSalarioAlterado.py</a></li>
 <li><a href="http://calculoTotalSegundos.py">calculoTotalSegundos.py</a></li>
