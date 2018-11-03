@@ -23,14 +23,14 @@
 <h3><a id="Pequenos_programas_2"></a>Complexidade de Algoritmos</h3>
 <h4><a id="Pequenos_programas_2"></a>Aplicação dos algoritmos</h4>
 <ul>
-<li><a href="https://github.com/Engcompaulo/treinamento_python/blob/master/Complexidade%de%Algoritmos/bubbleSort.py">bubbleSort.py</a></li>
-<li><a href="https://github.com/Engcompaulo/treinamento_python/blob/master/Complexidade%de%Algoritmos/buscaBin.py">buscaBin.py</a></li>
-<li><a href="https://github.com/Engcompaulo/treinamento_python/blob/master/Complexidade%de%Algoritmos/buscaSeqNaoOrd.py">buscaSeqNaoOrd.py</a></li>
-<li><a href="https://github.com/Engcompaulo/treinamento_python/blob/master/Complexidade%de%Algoritmos/parteInteiraDeReal.py">buscaSeqOrd.py</a></li>
-<li><a href="https://github.com/Engcompaulo/treinamento_python/blob/master/Complexidade%de%Algoritmos/imprimeN.py">imprimeN.py</a></li>
-<li><a href="https://github.com/Engcompaulo/treinamento_python/blob/master/Complexidade%de%Algoritmos/maxRec.py">maxRec.py</a></li>
-<li><a href="https://github.com/Engcompaulo/treinamento_python/blob/master/Complexidade%de%Algoritmos/maxRec2.py">maxRec2.py</a></li>
-<li><a href="https://github.com/Engcompaulo/treinamento_python/blob/master/Complexidade%de%Algoritmos/maximoSeq1.py">maximoSeq1.py</a></li>
-<li><a href="https://github.com/Engcompaulo/treinamento_python/blob/master/Complexidade%de%Algoritmos/maximoSeq2.py">maximoSeq2.py</a></li>
-<li><a href="https://github.com/Engcompaulo/treinamento_python/blob/master/Complexidade%de%Algoritmos/selectionSort.py">selectionSort.py</a></li>
+<li><a href="https://github.com/Engcompaulo/treinamento_python/blob/master/Complexidade%20de%20Algoritmos/bubbleSort.py">bubbleSort.py</a></li>
+<li><a href="https://github.com/Engcompaulo/treinamento_python/blob/master/Complexidade%20de%20Algoritmos/buscaBin.py">buscaBin.py</a></li>
+<li><a href="https://github.com/Engcompaulo/treinamento_python/blob/master/Complexidade%20de%20Algoritmos/buscaSeqNaoOrd.py">buscaSeqNaoOrd.py</a></li>
+<li><a href="https://github.com/Engcompaulo/treinamento_python/blob/master/Complexidade%20de%20Algoritmos/parteInteiraDeReal.py">buscaSeqOrd.py</a></li>
+<li><a href="https://github.com/Engcompaulo/treinamento_python/blob/master/Complexidade%20de%20Algoritmos/imprimeN.py">imprimeN.py</a></li>
+<li><a href="https://github.com/Engcompaulo/treinamento_python/blob/master/Complexidade%20de%20Algoritmos/maxRec.py">maxRec.py</a></li>
+<li><a href="https://github.com/Engcompaulo/treinamento_python/blob/master/Complexidade%20de%20Algoritmos/maxRec2.py">maxRec2.py</a></li>
+<li><a href="https://github.com/Engcompaulo/treinamento_python/blob/master/Complexidade%20de%20Algoritmos/maximoSeq1.py">maximoSeq1.py</a></li>
+<li><a href="https://github.com/Engcompaulo/treinamento_python/blob/master/Complexidade%20de%20Algoritmos/maximoSeq2.py">maximoSeq2.py</a></li>
+<li><a href="https://github.com/Engcompaulo/treinamento_python/blob/master/Complexidade%20de%20Algoritmos/selectionSort.py">selectionSort.py</a></li>
 </ul>
