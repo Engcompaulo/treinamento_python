@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca03803a-d7f2-470b-9fca-2d951992071c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Complexidade de Algoritmos/insertionSort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Complexidade de Algoritmos/1 ERROR - insertionSort.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Complexidade de Algoritmos/bubbleSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Complexidade de Algoritmos/bubbleSort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Complexidade de Algoritmos/selectionSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Complexidade de Algoritmos/selectionSort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pequenos programas/fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pequenos programas/fibonacci.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pequenos programas/hipotenusa.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pequenos programas/hipotenusa.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pequenos programas/multiplicacaoVariavel.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pequenos programas/multiplicacaoVariavel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pequenos programas/multiplicacaoVariavelAlterado.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pequenos programas/multiplicacaoVariavelAlterado.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pequenos programas/parteInteiraDeReal.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pequenos programas/parteInteiraDeReal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pequenos programas/parteInteiraDeReal2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pequenos programas/parteInteiraDeReal2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pequenos programas/senCosTang.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pequenos programas/senCosTang.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pequenos programas/somaDoisNumerosInput.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pequenos programas/somaDoisNumerosInput.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pequenos programas/sorteioDentroLista.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pequenos programas/sorteioDentroLista.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +48,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Complexidade de Algoritmos/insertionSort.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
+            <state relative-caret-position="221">
               <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
             </state>
           </provider>
@@ -282,20 +270,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="7" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.007473842" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2877429" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.3295082" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="2" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" />
       <window_info anchor="bottom" id="Run" order="6" />
-      <window_info active="true" anchor="bottom" id="Debug" order="7" visible="true" weight="0.39344263" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.39344263" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" />
@@ -446,7 +433,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Complexidade de Algoritmos/insertionSort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="221">
           <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
         </state>
       </provider>
