@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca03803a-d7f2-470b-9fca-2d951992071c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Complexidade de Algoritmos/insertionSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Complexidade de Algoritmos/insertionSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pequenos programas/fatorialRec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pequenos programas/fibonacciRec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,46 +16,63 @@
     <session id="-2127395314">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="30" />
+          <entry key="fibonacciRec" value="1" />
+          <entry key="py" value="34" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="30" />
+          <entry key="Python" value="35" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="py" value="196" />
+          <entry key="fibonacciRec" value="229" />
+          <entry key="py" value="982" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="196" />
+          <entry key="Python" value="1211" />
         </counts>
       </usages-collector>
     </session>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Treinamento_Python" />
+  </component>
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Complexidade de Algoritmos/insertionSort.py">
+        <entry file="file://$PROJECT_DIR$/Pequenos programas/fibonacciRec">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <marker date="1541354531435" expanded="true" signature="25:30" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -75,6 +94,8 @@
         <option value="$PROJECT_DIR$/Complexidade de Algoritmos/bubbleSort.py" />
         <option value="$PROJECT_DIR$/Complexidade de Algoritmos/1 ERROR - insertionSort.py" />
         <option value="$PROJECT_DIR$/Complexidade de Algoritmos/insertionSort.py" />
+        <option value="$PROJECT_DIR$/Pequenos programas/fatorialRec.py" />
+        <option value="$PROJECT_DIR$/Pequenos programas/fibonacciRec" />
       </list>
     </option>
   </component>
@@ -88,6 +109,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -109,7 +131,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -133,7 +154,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1 ERROR - insertionSort">
+  <component name="RunManager" selected="Python.fibonacciRec">
     <configuration name="1 ERROR - insertionSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Treinamento_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -155,7 +176,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="parteInteiraDeReal" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="fatorialRec" type="PythonConfigurationType" factoryName="Python">
       <module name="Treinamento_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -167,7 +188,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pequenos programas/parteInteiraDeReal.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pequenos programas/fatorialRec.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fibonacciRec" type="PythonConfigurationType" factoryName="Python">
+      <module name="Treinamento_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pequenos programas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pequenos programas/fibonacciRec" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -240,7 +282,8 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.parteInteiraDeReal" />
+      <item itemvalue="Python.fatorialRec" />
+      <item itemvalue="Python.fibonacciRec" />
       <item itemvalue="Python.parteInteiraDeReal2" />
       <item itemvalue="Python.senCosTang" />
       <item itemvalue="Python.sorteioDentroLista" />
@@ -252,7 +295,6 @@
         <item itemvalue="Python.sorteioDentroLista" />
         <item itemvalue="Python.senCosTang" />
         <item itemvalue="Python.parteInteiraDeReal2" />
-        <item itemvalue="Python.parteInteiraDeReal" />
       </list>
     </recent_temporary>
   </component>
@@ -270,19 +312,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2877429" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.3295082" />
+      <window_info id="Favorites" order="0" sideWeight="0.5012225" side_tool="true" weight="0.2877429" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.4987775" visible="true" weight="0.2877429" />
+      <window_info id="Structure" order="2" sideWeight="0.5012225" side_tool="true" weight="0.2877429" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.3295082" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="2" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.3295082" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39344263" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -319,13 +361,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Pequenos programas/fatorial.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pequenos programas/fibonacci.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Pequenos programas/hipotenusa.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -434,8 +469,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Complexidade de Algoritmos/insertionSort.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pequenos programas/fatorialRec.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+          <folding>
+            <marker date="1541353778065" expanded="true" signature="77:82" ph="..." />
+            <marker date="1541353778065" expanded="true" signature="375:428" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pequenos programas/fibonacci.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pequenos programas/fibonacciRec">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <marker date="1541354531435" expanded="true" signature="25:30" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
