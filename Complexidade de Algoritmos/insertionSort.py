@@ -8,8 +8,6 @@ def insertionSort(vetor, n):
             j = j-1;
     return vetor
 
-            
-
 print("Ordenação por inserção");
 vetor = [5, 7, 8, 4, 3, 6, 1, 9, 10, 2];
 print(vetor);
