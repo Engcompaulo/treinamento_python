@@ -28,6 +28,7 @@
 <li><a href="https://github.com/Engcompaulo/treinamento_python/blob/master/Complexidade%20de%20Algoritmos/buscaSeqNaoOrd.py">buscaSeqNaoOrd.py</a></li>
 <li><a href="https://github.com/Engcompaulo/treinamento_python/blob/master/Complexidade%20de%20Algoritmos/parteInteiraDeReal.py">buscaSeqOrd.py</a></li>
 <li><a href="https://github.com/Engcompaulo/treinamento_python/blob/master/Complexidade%20de%20Algoritmos/imprimeN.py">imprimeN.py</a></li>
+<li><a href="https://github.com/Engcompaulo/treinamento_python/blob/master/Complexidade%20de%20Algoritmos/insertionSort">insertionSort</a></li>
 <li><a href="https://github.com/Engcompaulo/treinamento_python/blob/master/Complexidade%20de%20Algoritmos/maxRec.py">maxRec.py</a></li>
 <li><a href="https://github.com/Engcompaulo/treinamento_python/blob/master/Complexidade%20de%20Algoritmos/maxRec2.py">maxRec2.py</a></li>
 <li><a href="https://github.com/Engcompaulo/treinamento_python/blob/master/Complexidade%20de%20Algoritmos/maximoSeq1.py">maximoSeq1.py</a></li>

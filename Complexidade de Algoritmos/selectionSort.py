@@ -10,8 +10,6 @@ def selectionSort(vetor, n):
                vetor[i] = vetor[im];
                vetor[im] = aux;
     return vetor
-            
-            
 
 print("Ordenação por seleção.");
 vetor = [5, 7, 8, 4, 3, 6,1, 9, 10, 2];

@@ -9,7 +9,6 @@ def bubbleSort(vetor, n):
                 trocou = True;
         if trocou == False:
             return vetor
-       
 
 print("Método de ordenação. Método da bolha.");
 vetor = [7, 5, 8, 4, 3, 6, 1, 9, 10, 2];

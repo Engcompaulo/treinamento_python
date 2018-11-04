@@ -5,5 +5,8 @@ v2 = 1
 if n == v1:
 	print('O valor do Fibonacci de: ',n ,'é: ',v2)
 else:
-	for i=2 in range(n):
-		print('as')	
+	for i in range(2, n):
+		fibo = v1 + v2;
+		v1 = v2;
+		v2 = fibo;
+	print(fibo);
