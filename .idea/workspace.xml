@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca03803a-d7f2-470b-9fca-2d951992071c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Pequenos programas/fatorialRec.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pequenos programas/fibonacciRec" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,34 +14,35 @@
     <session id="-2127395314">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="fibonacciRec" value="1" />
-          <entry key="py" value="34" />
+          <entry key="py" value="35" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="35" />
+          <entry key="Python" value="36" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="1" />
+          <entry key="dummy" value="4" />
           <entry key="fibonacciRec" value="229" />
-          <entry key="py" value="982" />
+          <entry key="py" value="1020" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="1211" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Python" value="1249" />
         </counts>
       </usages-collector>
     </session>
@@ -52,15 +51,24 @@
     <favorites_list name="Treinamento_Python" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Pequenos programas/fibonacciRec">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pequenos programas/fibonacciRec.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <marker date="1541354531435" expanded="true" signature="25:30" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Complexidade de Algoritmos/quickSort.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
             </state>
           </provider>
         </entry>
@@ -96,6 +104,7 @@
         <option value="$PROJECT_DIR$/Complexidade de Algoritmos/insertionSort.py" />
         <option value="$PROJECT_DIR$/Pequenos programas/fatorialRec.py" />
         <option value="$PROJECT_DIR$/Pequenos programas/fibonacciRec" />
+        <option value="$PROJECT_DIR$/Complexidade de Algoritmos/quickSort.py" />
       </list>
     </option>
   </component>
@@ -109,7 +118,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -131,6 +139,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -154,7 +163,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.fibonacciRec">
+  <component name="RunManager" selected="Python.quickSort">
     <configuration name="1 ERROR - insertionSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Treinamento_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -209,7 +218,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pequenos programas/fibonacciRec" />
+      <option name="SCRIPT_NAME" value="K:\Programas\Treinamento_Python\Pequenos programas\fibonacciRec.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -231,6 +240,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pequenos programas/parteInteiraDeReal2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="quickSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Treinamento_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Complexidade de Algoritmos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Complexidade de Algoritmos/quickSort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -288,9 +318,11 @@
       <item itemvalue="Python.senCosTang" />
       <item itemvalue="Python.sorteioDentroLista" />
       <item itemvalue="Python.1 ERROR - insertionSort" />
+      <item itemvalue="Python.quickSort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.quickSort" />
         <item itemvalue="Python.1 ERROR - insertionSort" />
         <item itemvalue="Python.sorteioDentroLista" />
         <item itemvalue="Python.senCosTang" />
@@ -317,14 +349,14 @@
       <window_info id="Favorites" order="0" sideWeight="0.5012225" side_tool="true" weight="0.2877429" />
       <window_info content_ui="combo" id="Project" order="1" sideWeight="0.4987775" visible="true" weight="0.2877429" />
       <window_info id="Structure" order="2" sideWeight="0.5012225" side_tool="true" weight="0.2877429" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.3295082" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="2" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" />
       <window_info anchor="bottom" id="Run" order="6" weight="0.3295082" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.39344263" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.40655738" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" />
@@ -484,10 +516,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
-          <folding>
-            <marker date="1541353778065" expanded="true" signature="77:82" ph="..." />
-            <marker date="1541353778065" expanded="true" signature="375:428" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -498,13 +526,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pequenos programas/fibonacciRec">
+    <entry file="file://$PROJECT_DIR$/Pequenos programas/fibonacciRec.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
             <marker date="1541354531435" expanded="true" signature="25:30" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Complexidade de Algoritmos/quickSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
     </entry>
