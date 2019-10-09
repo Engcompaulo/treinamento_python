@@ -1,3 +1,5 @@
+# Busca binária em Python3
+
 def buscaBin(vetor, ini, fim, chave):
     if ini > fim:
         return -1
