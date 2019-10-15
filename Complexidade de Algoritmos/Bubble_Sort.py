@@ -1,3 +1,4 @@
+# Bubble Sort em Python3
 def bubbleSort(vetor, n):
     for i in range(n, 0, -1):
         trocou = False;
