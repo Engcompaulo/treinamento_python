@@ -1,4 +1,4 @@
-# Busca binária em Python3
+# Busca binária em Python3.
 
 def buscaBin(vetor, ini, fim, chave):
     if ini > fim:
@@ -18,8 +18,8 @@ def buscaBin(vetor, ini, fim, chave):
 
 print("Busca binária. Vetor ordenado 1~10. Ex: Buscar o número 7")
 vetor = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+
 print("Vetor:  ",vetor)
 
 n= len(vetor)-1;
 print("Posição: ",buscaBin(vetor, 0, n, 7) + 1);
-
